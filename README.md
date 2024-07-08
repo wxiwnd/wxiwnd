@@ -6,8 +6,8 @@
 ### Skills: 
 - C, C++, Fortran, Python, Rust Programmer
 
-- ⚡ Maybe a CTFer
+- Maybe a CTFer
 
-- Backend Devoops
+- Backend DevOops
 
 ![wxiwnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxiwnd&count_private=true&theme=radical&show_icons=true)
