@@ -9,5 +9,6 @@
 - Maybe a CTFer
 
 - Backend DevOops
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxiwnd&count_private=true&show_icons=true&theme=radical)
+\
+### Stats:
+![wxiwnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxiwnd&count_private=true&show_icons=true&theme=dark&hide_border=true)
