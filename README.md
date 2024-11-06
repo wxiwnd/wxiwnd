@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on HPC & AI Models (eg. inference boost)
 
 ### Skills: 
-- C, Python, Rust Programmer
+- Python, Rust Programmer
 
 - Maybe a CTFer
 
